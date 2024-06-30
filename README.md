@@ -8,7 +8,7 @@
 ・微分の際に綺麗な値になれば収束が早いのではないか<br>
 といった考えで作っています。<br>
 <br>
-以下、元々個人で見るために作ったものなので雑な検証です。日本語のwikipediaのデータセット(3GB程)を用いて以下のような結果になっています。<br>
+以下、元々個人で見るために作ったものなので雑な検証ですが、日本語のwikipediaのデータセット(3GB程)を用いて以下のような結果になっています。<br>
 
 ![relu_pattern_full](https://github.com/suito555/Cubed-ReLU/blob/main/assets/relu_pattern_full.png)
 
