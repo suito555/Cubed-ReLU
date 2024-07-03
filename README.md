@@ -64,7 +64,7 @@ Squared ReLU https://arxiv.org/abs/2109.08668<br>
 StarReLU https://arxiv.org/abs/2210.13452<br>
 dReLU https://arxiv.org/abs/2406.05955<br>
 <br>
-GPT2 parameters 35.66M<br>
+GPT2+RoPE parameters 35.66M<br>
 n_layer=8<br>
 n_head=8<br>
 n_embd=512<br>
